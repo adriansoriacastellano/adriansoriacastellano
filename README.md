@@ -14,13 +14,12 @@ Soy un **Data Analyst** enfocado en la inteligencia de negocio y la ingeniería 
 
 ### 🚀 Proyectos Destacados
 
-#### [🇧🇷 Olist E-Commerce Analytics](LINK_A_TU_REPO_OLIST)
+#### [🇧🇷 Olist E-Commerce Analytics](https://github.com/adriansoriacastellano/proyecto-olist-sql)
 **Rol:** Consultor de Datos & SQL Engineer.
 Análisis estratégico de 100k pedidos reales para optimizar la logística y retención de clientes.
 
 * **El Reto:** Detectar por qué bajaba la satisfacción del cliente.
 * **La Solución:** Descubrí que los retrasos logísticos en zonas específicas multiplicaban las quejas por 7. Diseñé un sistema de segmentación RFM automatizado con Vistas SQL.
 * **Tecnologías:** SQL Avanzado (Window Functions, CTEs), Ingeniería de Datos (Views).
-* 🔗 [Ver Código y Análisis](https://github.com/adriansoriacastellano/proyecto-olist-sql)
 
 ---
