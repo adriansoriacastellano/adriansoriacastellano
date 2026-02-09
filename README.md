@@ -1,25 +1,26 @@
-### ¡Hola! Soy Adrian Soria Castellano 👋
+### Hola, soy Adrian Soria Castellano 👋
 
-Soy un **Data Analyst** apasionado por transformar datos crudos en historias de negocio y decisiones estratégicas. Me especializo en SQL, limpieza de datos y construcción de pipelines de análisis.
+Soy un **Data Analyst** enfocado en la inteligencia de negocio y la ingeniería de datos. Mi objetivo es transformar datos complejos en decisiones claras y rentables.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
-![SQL]
-![Excel]
-![GitHub]
-![VS Code]
+* **Análisis y Bases de Datos:** SQL (SQLite, PostgreSQL), Modelado de Datos, Limpieza (ETL).
+* **Herramientas:** DBeaver, VS Code, Excel (Avanzado), Power BI.
+* **Control de Versiones:** Git & GitHub.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-#### 🇧🇷 [Olist E-Commerce Analytics]
+#### [🇧🇷 Olist E-Commerce Analytics](LINK_A_TU_REPO_OLIST)
 **Rol:** Consultor de Datos & SQL Engineer.
-Un análisis end-to-end de 100k pedidos reales de un marketplace brasileño.
-* **Logro:** Identifiqué que los retrasos logísticos aumentan las quejas un 700%.
-* **Tech:** SQL Avanzado (Window Functions, CTEs), Segmentación RFM y Vistas.
-* **Ver Código:**: https://github.com/adriansoriacastellano/proyecto-olist-sql
+Análisis estratégico de 100k pedidos reales para optimizar la logística y retención de clientes.
+
+* **El Reto:** Detectar por qué bajaba la satisfacción del cliente.
+* **La Solución:** Descubrí que los retrasos logísticos en zonas específicas multiplicaban las quejas por 7. Diseñé un sistema de segmentación RFM automatizado con Vistas SQL.
+* **Tecnologías:** SQL Avanzado (Window Functions, CTEs), Ingeniería de Datos (Views).
+* 🔗 [Ver Código y Análisis](https://github.com/adriansoriacastellano/proyecto-olist-sql)
 
 ---
