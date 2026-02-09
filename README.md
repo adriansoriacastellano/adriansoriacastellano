@@ -6,10 +6,10 @@ Soy un **Data Analyst** apasionado por transformar datos crudos en historias de 
 
 ### 🛠️ Mi Stack Tecnológico
 
-![SQL](https://img.shields.io/badge/SQL-Expert-orange?style=for-the-badge&logo=sqlite)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)
-![GitHub](https://img.shields.io/badge/GitHub-Project_Management-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![SQL]
+![Excel]
+![GitHub]
+![VS Code]
 
 ---
 
